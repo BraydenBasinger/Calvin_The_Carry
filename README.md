@@ -25,7 +25,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |:----:|:----:|
 |**[here](https://1drv.ms/w/s!AuWaorfPce_nnDle71SgnTHPytGr?e=XMfsRO)**|**Brayden**|
 |**[...](...)**|**Calvin**|
-|**[...](...)**|**Dane**|
+|**[here](https://docs.google.com/document/d/1NG2bNDZ2t5U0vW3-rszRWWKIQ03mJ0yEY7SNimfcK5E/edit?usp=sharing)**|**Dane**|
 |**[...](...)**|**Nicolas**|
 
 Final evaluation criteria
