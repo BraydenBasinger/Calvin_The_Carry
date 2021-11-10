@@ -21,6 +21,8 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 
 ## Link to Reflection/Retrospective and Goals for Tri 2
 ### Ready for review 
+[Photos](https://docs.google.com/document/d/1rx_8IALr0q6w0xLMb2Pvt4MTPzHZeSXLrh0Rs77-1HQ/edit?usp=sharing)
+[Video](https://drive.google.com/file/d/1JQ2Pb6VHqHQsBkDLGRpOOkYGwozKBSyP/view?usp=sharing)
 |**Link**|**Contributors**|
 |:----:|:----:|
 |**[here](https://1drv.ms/w/s!AuWaorfPce_nnDle71SgnTHPytGr?e=XMfsRO)**|**Brayden**|
