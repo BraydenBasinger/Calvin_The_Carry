@@ -9,6 +9,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 **Dane** | D1935827V | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=assignee%3AD1935827V+is%3Aissue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ad1935827v) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=D1935827V) | [Link](https://github.com/D1935827V)
 **Nicholas** | ncrxue | [Link](https://github.com/D1935827V/spring_portfolio/issues?q=is%3Aissue+assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/projects/1?card_filter_query=assignee%3Ancrxue) | [Link](https://github.com/D1935827V/spring_portfolio/commits?author=ncrxue) | [Link](https://github.com/ncrxue)
 
+
 ## Draft N@tM Final plus Unit 10
 ### Issues ready for review 
 |**Issue**|**Contributors**|**Description of Issue**|
@@ -17,6 +18,16 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |**[...](...)**|**Calvin**|...|
 |**[...](...)**|**Dane**|...|
 |**[...](...)**|**Nicolas**|...|
+
+## Link to Reflection/Retrospective and Goals for Tri 2
+### Ready for review 
+|**Link**|**Contributors**|
+|:----:|:----:|
+|**[here](https://1drv.ms/w/s!AuWaorfPce_nnDle71SgnTHPytGr?e=XMfsRO
+)**|**Brayden**|
+|**[...](...)**|**Calvin**|
+|**[...](...)**|**Dane**|
+|**[...](...)**|**Nicolas**|
 
 Final evaluation criteria
 
