@@ -23,8 +23,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 ### Ready for review 
 |**Link**|**Contributors**|
 |:----:|:----:|
-|**[here](https://1drv.ms/w/s!AuWaorfPce_nnDle71SgnTHPytGr?e=XMfsRO
-)**|**Brayden**|
+|**[here](https://1drv.ms/w/s!AuWaorfPce_nnDle71SgnTHPytGr?e=XMfsRO)**|**Brayden**|
 |**[...](...)**|**Calvin**|
 |**[...](...)**|**Dane**|
 |**[...](...)**|**Nicolas**|
