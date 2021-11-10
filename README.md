@@ -15,7 +15,7 @@ On our website, we have a navbar to see all of our minilabs and assignments. We 
 |**Issue**|**Contributors**|**Description of Issue**|
 |:----:|:----:|:----:|
 |**[here](https://github.com/BraydenBasinger/Calvin_The_Carry/issues/10)**|**Brayden**|unit 10 + N@TM draft|
-|**[...](...)**|**Calvin**|...|
+|**[here](https://docs.google.com/document/d/1pdsJlgMmX2bm3pgxgT1Eb2QozZhmHZiDpPsBl4vDsTE/edit?usp=sharing)**|**Calvin**|...|
 |**[...](...)**|**Dane**|...|
 |**[...](...)**|**Nicolas**|...|
 
